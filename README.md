@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin-top: 20px;">
   <div style="flex: 1; text-align: left;">
     <p>🌱 I’m currently learning *react, javascript*</p>
-    <p>👨‍💻 All of my projects are available at <a href="https://portfoliosahilnikalje.netlify.app/" target="blank">Here</a></p>
+    <p>👨‍💻 All of my projects are available at <a href="https://portfoliosahilnikalje.netlify.app/" target="_blank">Here</a></p>
     <p>💬 Ask me about *react, javascript, HTML, CSS*</p>
     <p>📫 How to reach me *sahilnik88@gmail.com* </p>
   </div>
